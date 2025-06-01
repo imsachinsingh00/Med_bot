@@ -22,5 +22,5 @@ This is a simple Gradio-based application for **summarizing medical reports and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/medical-summarization-bot.git
+git clone https://github.com/imsachinsingh00/medical-summarization-bot.git
 cd medical-summarization-bot
